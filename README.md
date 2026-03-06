@@ -104,6 +104,8 @@ Input (64×64×3)
 | Test Accuracy | **~95%** |
 | Test AUC | **~0.998** |
 
+![alt text](path/to/image.png)
+
 ---
 
 ## Project Structure
