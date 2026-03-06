@@ -201,9 +201,7 @@ drought_label   = DROUGHT_INTERPRETATION[predicted_class]
 - **EuroSAT Dataset** — Helber et al. (2019). EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.*
 - **Sentinel-2 imagery** — European Space Agency (ESA) Copernicus programme
 - **Drought severity context** — Chuphal et al. (2024), Drought Atlas of India
-- **GreenAI / Skill4Future** — Module 5: Computer Vision for Green Technology
 
 ---
 
-## Group Members
-- Vedant Bagwale
+# - Vedant Bagwale
