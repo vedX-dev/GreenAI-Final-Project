@@ -1,4 +1,4 @@
-# 🛰️ Satellite Drought Risk Detector
+# 🛰️ Satellite Drought Risk Prediction
 
 > **GreenAI — Final Project**  
 > Classify land use from satellite imagery and assess drought risk using a custom CNN trained on the EuroSAT dataset.
