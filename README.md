@@ -34,7 +34,7 @@ Upload any satellite image (Google Earth screenshot, Landsat tile, Sentinel-2 im
 
 ---
 
-## Dataset — EuroSAT
+## Dataset — [EuroSAT](https://www.kaggle.com/code/nilesh789/land-cover-classification-with-eurosat-dataset)
 
 | Property | Value |
 |---|---|
