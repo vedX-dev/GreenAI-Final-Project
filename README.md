@@ -118,6 +118,7 @@ your_project/
 ├── app.py                          # Streamlit web application
 ├── requirements.txt                # Python dependencies
 ├── drought_detection_final.ipynb   # Training notebook (Google Colab)
+├── run.bat                         # RUN THIS FILE : REST WILL BE AUTO COMPLETE
 └── drought_model_artifacts/
     ├── drought_model.keras         # Trained model (~3.8 MB)
     ├── drought_model.h5            # Legacy HDF5 backup
@@ -134,6 +135,7 @@ your_project/
 git clone https://github.com/yourusername/satellite-drought-detector.git
 cd satellite-drought-detector
 pip install -r requirements.txt
+run run.bat
 ```
 
 ### 2. Train the model (Google Colab)
