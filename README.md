@@ -105,7 +105,10 @@ Input (64×64×3)
 | Test AUC | **~0.998** |
 
 ![alt text](Result/download.png)
-
+![alt text](Result/download(1).png)
+![alt text](Result/download(2).png)
+![alt text](Result/download(3).png)
+![alt text](Result/download(4).png)
 ---
 
 ## Project Structure
