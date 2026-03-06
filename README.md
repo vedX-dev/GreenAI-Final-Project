@@ -1,6 +1,6 @@
 # 🛰️ Satellite Drought Risk Detector
 
-> **GreenAI · Skill4Future · Module 5 — Computer Vision for Green Technology**  
+> **GreenAI — Final Project**  
 > Classify land use from satellite imagery and assess drought risk using a custom CNN trained on the EuroSAT dataset.
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
