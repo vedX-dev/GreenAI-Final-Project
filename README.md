@@ -104,11 +104,11 @@ Input (64×64×3)
 | Test Accuracy | **~95%** |
 | Test AUC | **~0.998** |
 
+![alt text](Result/download4.png)
+![alt text](Result/download3.png)
+![alt text](Result/download2.png)
+![alt text](Result/download1.png)
 ![alt text](Result/download.png)
-![alt text](Result/download(1).png)
-![alt text](Result/download(2).png)
-![alt text](Result/download(3).png)
-![alt text](Result/download(4).png)
 ---
 
 ## Project Structure
