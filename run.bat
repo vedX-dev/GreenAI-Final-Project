@@ -22,7 +22,7 @@ set "BOLD=%ESC%[1m"
 echo.
 echo %CYAN%  ==========================================================%RESET%
 echo %CYAN%   %BOLD%SATELLITE DROUGHT RISK PREDICTION%RESET%%CYAN%
-echo %CYAN%   VEDANT BAGWALE ^|  ^| 
+echo %CYAN%  - VEDANT BAGWALE
 echo %CYAN%  ==========================================================%RESET%
 echo.
 
@@ -299,4 +299,5 @@ python -m streamlit run app.py
 echo.
 echo %DIM%  Server stopped. Press any key to close this window.%RESET%
 pause >nul
+
 endlocal
