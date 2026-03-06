@@ -1,0 +1,47 @@
+{
+  "model_version": "3.0.0",
+  "architecture": "EfficientNetB0 (Transfer Learning)",
+  "dataset": "EuroSAT (Sentinel-2)",
+  "img_size": 64,
+  "num_classes": 10,
+  "class_names": [
+    "AnnualCrop",
+    "Forest",
+    "HerbaceousVegetation",
+    "Highway",
+    "Industrial",
+    "Pasture",
+    "PermanentCrop",
+    "Residential",
+    "River",
+    "SeaLake"
+  ],
+  "drought_interpretation": {
+    "AnnualCrop": "\ud83d\udfe1 Agricultural Land",
+    "Forest": "\ud83d\udfe2 Healthy Vegetation",
+    "HerbaceousVegetation": "\ud83d\udfe2 Healthy Vegetation",
+    "Highway": "\u26aa Urban / Built-up",
+    "Industrial": "\u26aa Urban / Built-up",
+    "Pasture": "\ud83d\udfe2 Healthy Vegetation",
+    "PermanentCrop": "\ud83d\udfe1 Agricultural Land",
+    "Residential": "\u26aa Urban / Built-up",
+    "River": "\ud83d\udd35 Water Body",
+    "SeaLake": "\ud83d\udd35 Water Body"
+  },
+  "drought_colors": {
+    "AnnualCrop": "#f39c12",
+    "Forest": "#27ae60",
+    "HerbaceousVegetation": "#2ecc71",
+    "Highway": "#95a5a6",
+    "Industrial": "#7f8c8d",
+    "Pasture": "#1abc9c",
+    "PermanentCrop": "#e67e22",
+    "Residential": "#bdc3c7",
+    "River": "#3498db",
+    "SeaLake": "#2980b9"
+  },
+  "test_accuracy": 0.9507,
+  "test_auc": 0.994,
+  "greenai_module": "Module 5 \u2014 Computer Vision for Green Technology",
+  "coursework": "Skill4Future GreenAI"
+}
