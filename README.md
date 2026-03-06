@@ -198,6 +198,5 @@ drought_label   = DROUGHT_INTERPRETATION[predicted_class]
 
 ---
 
-## License
-
-This project is part of the GreenAI Skill4Future coursework. Dataset usage is subject to the EuroSAT dataset licence.
+## Group Members
+- Vedant Bagwale
