@@ -134,7 +134,6 @@ your_project/
 ```bash
 git clone https://github.com/yourusername/satellite-drought-detector.git
 cd satellite-drought-detector
-pip install -r requirements.txt
 run run.bat
 ```
 
