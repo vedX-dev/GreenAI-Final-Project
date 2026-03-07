@@ -132,8 +132,8 @@ your_project/
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/yourusername/satellite-drought-detector.git
-cd satellite-drought-detector
+git clone [https://github.com/vedX-dev/GreenAI-Final-Project]
+cd GreenAI-Final-Project
 run run.bat
 ```
 
